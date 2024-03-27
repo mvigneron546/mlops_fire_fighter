@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/redycu3/Documents/projects_private/mlops_fire_fighter/modeling/mlruns/341606037717932998/b3099ed8b5064f4ba60fc96fda851d59/artifacts
+end_time: 1689844266978
+entry_point_name: ''
+experiment_id: '341606037717932998'
+lifecycle_stage: active
+run_id: b3099ed8b5064f4ba60fc96fda851d59
+run_name: serious-shad-992
+run_uuid: b3099ed8b5064f4ba60fc96fda851d59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689844264046
+status: 3
+tags: []
+user_id: redycu3

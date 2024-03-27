@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/redycu3/Documents/projects_private/mlops_fire_fighter/modeling/mlruns/341606037717932998/f09ea6667e354a49a40f7983c2a84b07/artifacts
+end_time: 1690288196401
+entry_point_name: ''
+experiment_id: '341606037717932998'
+lifecycle_stage: active
+run_id: f09ea6667e354a49a40f7983c2a84b07
+run_name: zealous-sponge-349
+run_uuid: f09ea6667e354a49a40f7983c2a84b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690288193677
+status: 3
+tags: []
+user_id: redycu3
